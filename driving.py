@@ -13,3 +13,5 @@ elif country == "American":
 	else :
 		print ("你還不能考駕照唷")
 
+else :
+	print ("你只能輸入Taiwan or American")
